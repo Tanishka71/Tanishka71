@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tanishka71
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning front end development()
-- 💞️ I’m looking to collaborate on html,css,bootstrap,java script.
+- 🌱 I’m currently learning front end development() and machine learning.
+- 💞️ I’m looking to collaborate on html,css,bootstrap,java script,python,numpy,pandas,matplotlib.
 - 📫 
 
 <!---
